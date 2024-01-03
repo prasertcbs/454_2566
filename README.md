@@ -1,10 +1,10 @@
 # 2602454: Business Intelligence System
 ---
 * github: https://github.com/prasertcbs/454_2566.git
-* [cheat sheet](https://github.com/prasertcbs/cheatsheet) 
+* [cheat sheet](./cheatsheet/) 
 # Week 1: 10-Jan-2024
 - [ ] [📺 week 1 clips](week1_clips.md)
-## books
+## books/materials
 - [Python for Data Analysis, 3E](https://wesmckinney.com/book/)
 - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/index.html)
 	- [Jupyter Notebook on github](https://github.com/jakevdp/PythonDataScienceHandbook)
@@ -24,8 +24,6 @@
 - [ ] [Netflix: the social dilemma](https://www.netflix.com/th-en/title/81254224)
 - [ ] [Netflix: the great hack](https://www.netflix.com/th-en/title/80117542)
     - [ ] [wiki](https://en.wikipedia.org/wiki/Facebook%E2%80%93Cambridge_Analytica_data_scandal)
-- [ ] pandas vs sql
-    - [ ] [pandas](https://www.youtube.com/watch?v=f3CLdRl-zyQ&list=PLoTScYm9O0GFVfRk_MmZt0vQXNIi36LUz)
 - [ ] Install Python and packages
   - [ ] installation:
     - [ ] [Install Python using miniconda](https://www.youtube.com/watch?v=NxIwWGKuSco&list=PLoTScYm9O0GH4YQs9t4tf2RIYolHt_YwW&index=4)
