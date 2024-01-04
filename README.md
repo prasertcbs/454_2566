@@ -28,13 +28,12 @@
   - [ ] installation:
     - [ ] [Install Python using miniconda](https://www.youtube.com/watch?v=NxIwWGKuSco&list=PLoTScYm9O0GH4YQs9t4tf2RIYolHt_YwW&index=4)
 ```sh
-pip install -U nodejs
 pip install -U jupyterlab ipywidgets
 pip install -U pandas matplotlib seaborn scipy scikit-learn joblib lxml beautifulsoup4 pillow sqlalchemy openpyxl xlrd statsmodels tabulate pandas-datareader pyarrow
 pip install -U plotly
 pip install -U jupysql duckdb duckdb-engine
 pip install -U graphviz
-pip install -U lightgbm shap
+pip install -U lightgbm
 pip cache purge
 ```
 #### Clone class materials
