@@ -23,10 +23,9 @@
   - [ ] [video clip](https://nyti.ms/2kH3YzT)
 - [ ] [Netflix: the social dilemma](https://www.netflix.com/th-en/title/81254224)
 - [ ] [Netflix: the great hack](https://www.netflix.com/th-en/title/80117542)
-    - [ ] [wiki](https://en.wikipedia.org/wiki/Facebook%E2%80%93Cambridge_Analytica_data_scandal)
+  - [ ] [wiki](https://en.wikipedia.org/wiki/Facebook%E2%80%93Cambridge_Analytica_data_scandal)
 - [ ] Install Python and packages
-  - [ ] installation:
-    - [ ] [Install Python using miniconda](https://www.youtube.com/watch?v=NxIwWGKuSco&list=PLoTScYm9O0GH4YQs9t4tf2RIYolHt_YwW&index=4)
+  - [ ] [Install Python using miniconda](https://www.youtube.com/watch?v=NxIwWGKuSco&list=PLoTScYm9O0GH4YQs9t4tf2RIYolHt_YwW&index=4)
 ```sh
 pip install -U jupyterlab ipywidgets
 pip install -U pandas matplotlib seaborn scipy scikit-learn joblib lxml beautifulsoup4 pillow sqlalchemy openpyxl xlrd statsmodels tabulate pandas-datareader pyarrow
