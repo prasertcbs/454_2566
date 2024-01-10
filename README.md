@@ -92,3 +92,7 @@ pip cache purge
 - [ ] [cheat sheet](https://github.com/prasertcbs/cheatsheet)
 - [ ] [pandas documentation](https://pandas.pydata.org/docs/)
 - [ ] [Kaggle](https://www.kaggle.com/)
+---
+# Week 2: 17-Jan-2024
+- Guest speaker on Machine learning and application
+---
