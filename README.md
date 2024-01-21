@@ -102,6 +102,10 @@ pip cache purge
 - [ ] [📺 visualization with seaborn](./4%20seaborn.md)
 - [ ] register google classroom
 ## intro to pandas
+- [ ] panel data
+  - [daily stock price](./data/panel_data.xlsx)
+  - https://www.factorywarrantylist.com/car-sales-by-manufacturer.html
+    - [xlsx](./data/Top%2015%20Automakers%20in%20the%20World.xlsx)
 ## [Read data techniques](https://www.youtube.com/watch?v=fNJb52eMLNg&list=PLoTScYm9O0GFVfRk_MmZt0vQXNIi36LUz&index=97)
 - [ ] separator
 - [ ] na_values
