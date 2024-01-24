@@ -16,7 +16,7 @@ For an Exploratory Data Analysis (EDA) workflow, it's essential to have a system
 3. **Cross-tabulation**: Analyze the relationship between categorical variables using cross-tabulation or contingency tables.
 4. **Multivariate Plots**: Use plots like parallel coordinates or radar charts for multivariate analysis.
 
-### Data Quality Assessment
+### Data Quality Assessment (Optional)
 1. **Outlier Detection**: Identify and examine outliers in the dataset.
 2. **Data Consistency Checks**: Ensure data is consistent across the dataset (e.g., no negative values for age).
 

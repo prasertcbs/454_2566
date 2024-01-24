@@ -143,3 +143,26 @@ pip cache purge
       - [ ] `brew install --cask iterm2`
     - [ ] [Install Oh-my-zsh](https://www.youtube.com/watch?v=-5SI3xFM_3E)
 ---
+# Week 4: 31-Jan-2024
+- [ ] [📺 week 4 clips](week4_clips.md)
+- [ ] [📺 visualization with seaborn](./4%20seaborn.md)
+- [ ] Quiz: 28-Feb-2024 (30 points)
+## Assignment 1 due (~10 to 15 points)
+### Instructions:
+- Find an industry data from Euromonitor (https://chula.idm.oclc.org/login?url=https://www.portal.euromonitor.com)
+  - World
+  - Country
+  - Brand
+- Find another dataset from Euromonitor or other sources
+- Craft a story from both datasets
+- Create Jupyter notebook
+  - [Exploratory Data Analysis](EDA.md)
+  - Visualization
+    - [matplotlb](./3%20matplotlib.md)
+    - [seaborn](./4%20seaborn.md)
+- submit `.ipynb` and data to Google Classroom
+- present 7 minutes
+  - randomly pick a presenter
+## Data transformation
+- pivot and unpivot data
+- 
