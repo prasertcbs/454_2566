@@ -162,7 +162,11 @@ pip cache purge
     - [seaborn](./4%20seaborn.md)
 - submit `.ipynb` and data to Google Classroom
 - present 7 minutes
-  - randomly pick a presenter
+  - randomly pick a presenter by instructor
+  - Storytelling
+    - [Your Definitive Guide To Building Valuable Narratives Through Data Storytelling](https://www.datapine.com/blog/data-storytelling-examples-with-data-visualization/)
 ## Data transformation
+- group by and aggregate
 - pivot and unpivot data
-- 
+- concat dataframe
+- join two or more data frame
