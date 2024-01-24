@@ -101,6 +101,7 @@ pip cache purge
 - [ ] [📺 week 3 clips](week3_clips.md)
 - [ ] [📺 visualization with seaborn](./4%20seaborn.md)
 - [ ] register google classroom
+- [ ] Quiz: 28-Feb-2024 (30 points)
 ## intro to pandas
 - [ ] panel data
   - [daily stock price](./data/panel_data.xlsx)
