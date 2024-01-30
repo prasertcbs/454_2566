@@ -144,9 +144,10 @@ pip cache purge
     - [ ] [Install Oh-my-zsh](https://www.youtube.com/watch?v=-5SI3xFM_3E)
 ---
 # Week 4: 31-Jan-2024
+- [ ] ❗final warning: register google classroom with @student.chula.ac.th account only
 - [ ] [📺 week 4 clips](week4_clips.md)
 - [ ] [📺 visualization with seaborn](./4%20seaborn.md)
-- [ ] Quiz: 28-Feb-2024 (30 points)
+- [ ] 📢 Quiz: 28-Feb-2024 (35 points)
 ## Assignment 1 due (~10 to 15 points)
 ### Instructions:
 - Find an industry data from Euromonitor (https://chula.idm.oclc.org/login?url=https://www.portal.euromonitor.com)
