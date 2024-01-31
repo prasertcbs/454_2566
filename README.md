@@ -171,3 +171,16 @@ pip cache purge
 - pivot and unpivot data
 - concat dataframe
 - join two or more data frame
+
+---
+# Week 5: 7-Feb-2024
+- [ ] [📺 week 5 clips](week5_clips.md)
+- [ ] regular expression
+- [ ] 📢 Quiz: 28-Feb-2024 (35 points)
+## [Exploratory Data Analysis](./EDA.md)
+## read external data technique
+- html table
+- parse text file
+## Handle missing values
+## regular expression
+- [cheat sheet](https://www.datacamp.com/cheat-sheet/regular-expresso)
