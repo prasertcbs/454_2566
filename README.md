@@ -175,7 +175,6 @@ pip cache purge
 ---
 # Week 5: 7-Feb-2024
 - [ ] [📺 week 5 clips](week5_clips.md)
-- [ ] regular expression
 - [ ] 📢 Quiz: 28-Feb-2024 (35 points)
 ## [Exploratory Data Analysis](./EDA.md)
 ## read external data technique
@@ -183,4 +182,5 @@ pip cache purge
 - parse text file
 ## Handle missing values
 ## regular expression
+= [https://regex101.com/](https://regex101.com/)
 - [cheat sheet](https://www.datacamp.com/cheat-sheet/regular-expresso)
