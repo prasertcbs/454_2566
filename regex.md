@@ -5,11 +5,12 @@
 | **Matching Characters**  |                                                |                             |
 | `.`                   | Matches any single character (except newline)  | "b.d" matches "bad", "bed", "bod" |
 | `\d`                   | Matches any digit (0-9)                         | "3\d\d" matches "312", "357" |
-| `\w`                   | Matches any word character (alphanumeric and underscore) | "h_llo" matches "hello", "h_llo" |
+| `\w`                   | Matches any word character (alphanumeric and underscore) | "h\wllo" matches "hello", "h_llo" |
 | `\s`                   | Matches any whitespace character                  | "hi \tthere" matches "hi    there" |
 | `[^...]`              | Matches any character except those inside the brackets | "[^aeiou]" matches "b", "d", "h" |
 | `[]`                   | Matches a character class                        | "[aeiou]" matches "a", "e", "i", "o", "u" |
 | `[a-z]`                 | Matches a range of characters                    | "[a-z]" matches "a", "b", ..., "z" |
+| `[a-zA-Z]`                 | Matches a range of characters                    | "[a-zA-Z]" matches "a", "b", ..., "z", "A", "B", ..., "Z" |
 | **Quantifiers**         |                                                |                             |
 | `*`                   | Matches the preceding element zero or more times  | "ab*c" matches "ac", "abc", "abbc" |
 | `+`                   | Matches the preceding element one or more times | "ab+c" matches "abc", "abbc", ..., but not "ac" |
