@@ -264,7 +264,7 @@ pip cache purge
 ## interactive notebook
 - interactive dataframe
 - interactive chart
-
+---
 # Week 7: 21-Feb-2024
 - [ ] ห้องเรียน: ห้องคอมพิวเตอร์ชั้น 1 ตึก 9
 - [ ] [📺 week 7 clips](week7_clips.md)
@@ -276,3 +276,8 @@ pip cache purge
 ## regular expression
 - [https://regex101.com/](https://regex101.com/)
 - [cheat sheet](https://www.datacamp.com/cheat-sheet/regular-expresso)
+
+---
+# Week 8: 28-Feb-2024
+- [ ] ห้องเรียน: ห้องคอมพิวเตอร์ชั้น 1 ตึก 9
+- [ ] 📢 Quiz: 28-Feb-2024 (35 points)
