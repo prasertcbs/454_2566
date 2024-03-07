@@ -281,3 +281,19 @@ pip cache purge
 # Week 8: 28-Feb-2024
 - [ ] ห้องเรียน: ห้องคอมพิวเตอร์ชั้น 1 ตึก 9
 - [ ] 📢 Quiz: 28-Feb-2024 (35 points)
+
+---
+# Week 9: 6-Mar-2024
+- midterm exam period
+
+---
+# Week 10: 13-Mar-2024
+- [ ] ห้องเรียน: ห้องคอมพิวเตอร์ชั้น 1 ตึก 9
+- [ ] [📺 week 10 clips](week10_clips.md)
+## machine learning concepts
+- statistical analysis vs. machine learning approach
+## linear regression
+- simple linear regression
+- multiple linear regression
+- train-test split
+- impute missing value
