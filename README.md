@@ -294,6 +294,12 @@ pip cache purge
 - statistical analysis vs. machine learning approach
 ## linear regression
 - simple linear regression
+
+---
+# Week 11: 20-Mar-2024
+- [ ] [📺 week 10 clips](week10_clips.md)
+## linear regression
 - multiple linear regression
 - train-test split
 - impute missing value
+- [decision tree regressor](https://www.youtube.com/watch?v=g9c66TUylZ4)
