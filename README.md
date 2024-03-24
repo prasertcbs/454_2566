@@ -303,3 +303,12 @@ pip cache purge
 - train-test split
 - impute missing value
 - [decision tree regressor](https://www.youtube.com/watch?v=g9c66TUylZ4)
+
+---
+# Week 12: 27-Mar-2024
+- [ ] [📺 week 12 clips](week12_clips.md)
+## classification
+- Logistic Regression
+- Confusion Matrix
+- KNeighborsClassifier
+- Decision Tree Classification
