@@ -321,7 +321,7 @@ pip cache purge
 - [KNeighborsClassifier](https://www.youtube.com/watch?v=0p0o5cmgLdE)
 - [Random forests](https://www.youtube.com/watch?v=cIbj0WuK41w)
   - bootstrapping (with replacement) dataset
-  - bootstrap + aggregating or bagging
   - feature randomness
+  - bootstrap + aggregating or bagging
 - Threshold
 - [ROC and AUC](https://www.youtube.com/watch?v=4jRBRDbJemM)
