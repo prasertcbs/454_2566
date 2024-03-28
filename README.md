@@ -312,3 +312,16 @@ pip cache purge
 - Confusion Matrix
 - KNeighborsClassifier
 - Decision Tree Classification
+
+---
+# Week 13: 3-Apr-2024
+- [ ] [📺 week 13 clips](week12_clips.md)
+## classification
+- Decision Tree Classification
+- [KNeighborsClassifier](https://www.youtube.com/watch?v=0p0o5cmgLdE)
+- [Random forests](https://www.youtube.com/watch?v=cIbj0WuK41w)
+  - bootstrapping (with replacement) dataset
+  - bootstrap + aggregating or bagging
+  - feature randomness
+- Threshold
+- [ROC and AUC](https://www.youtube.com/watch?v=4jRBRDbJemM)
